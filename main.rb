@@ -3,7 +3,7 @@ require "./questions"
 
   
 def start
-  puts "Welcome to Ruby Math Game! This game requires two players."
+  puts "Game Begins!"
   questions  
 end
 
